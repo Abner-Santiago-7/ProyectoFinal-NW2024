@@ -1,8 +1,5 @@
-# Tienda-online-php-mvc-y-mysql
-![tienda](https://github.com/VidaInformatico/Tienda-online-PHP-mvc-y-Mysql/assets/71534078/13df062f-c63d-4ca7-9437-d1bcc5acf4a9)
-
+# Proyecto Final NW-2024 - Tienda-online-php-mvc-y-mysql
 ## Configuración
-
 Instalación de Phpmailer
 
 ```bash
@@ -10,5 +7,5 @@ Instalación de Phpmailer
 ```
     
 ## Credenciales de acceso
-- Email: angelsifuentes2580@gmail.com
+- Email: abnerdominguez48@gmail.com
 - Clave: 12345
